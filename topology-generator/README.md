@@ -48,6 +48,7 @@ Add built binary called `topogen` to your PATH,
 
 Run `topogen -v` to see if it works.
 
+Run `topogen config -i hkccr.ccs.tencentyun.com/bitliu/topogen -v v0.0.4 -n 3 -j "istio.io/rev:1-10-3"` to quick start.
 
 ## Build and Use Docker Image
 
